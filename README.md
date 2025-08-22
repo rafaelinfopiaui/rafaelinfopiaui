@@ -36,12 +36,12 @@ Atualmente, sou **Diretor de Tecnologia da JUCEPI**, conduzindo iniciativas de *
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" width="40" alt="Gemini"/>
   <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="40" alt="GitHub Copilot"/>
   <img src="https://manus.ai/favicon.ico" width="40" alt="Manus"/>
-  <img src="https://www.gstatic.com/lamda/images/favicon_v2_192.png" width="40" alt="NotebookLM"/>
-  <img src="https://www.gstatic.com/aihub/images/favicon_48dp.png" width="40" alt="Google AI Studio"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Claude_logo.svg" width="40" alt="Claude"/>
-  <img src="https://seeklogo.com/images/D/deepseek-logo-D258404452-seeklogo.com.png" width="40" alt="DeepSeek"/>
-  <img src="https://storage.googleapis.com/meetgeek-site-assets/favicon-32x32.png" width="40" alt="MeetGeek"/>
-  <img src="https://gammalab.io/favicon-32x32.png" width="40" alt="Gamma"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.62.0/files/dark/notebooklm.png" width="40" alt="NotebookLM"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Google_ai_studio_logo.png" width="40" alt="Google AI Studio"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.62.0/files/dark/claude-color.png" width="40" alt="Claude"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.62.0/files/dark/deepseek-color.png" width="40" alt="DeepSeek"/>
+  <img src="https://cdn.prod.website-files.com/63af97f08f22087ab0e44f0a/6823864ef4f931987f145a48_MG%20logomark.png" width="40" alt="MeetGeek"/>
+  <img src="https://static.gamma.app/favicons/favicon_light.svg" width="40" alt="Gamma"/>
 </p>
 
 ---
