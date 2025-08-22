@@ -33,7 +33,7 @@ Atualmente, sou **Diretor de Tecnologia da JUCEPI**, conduzindo iniciativas de *
   
   <!-- IA e Ferramentas de Produtividade -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" alt="ChatGPT"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Google_Gemini_logo.svg" width="40" alt="Gemini"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" width="40" alt="Gemini"/>
   <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="40" alt="GitHub Copilot"/>
   <img src="https://manus.ai/favicon.ico" width="40" alt="Manus"/>
   <img src="https://www.gstatic.com/lamda/images/favicon_v2_192.png" width="40" alt="NotebookLM"/>
