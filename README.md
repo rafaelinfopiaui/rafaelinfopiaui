@@ -1,3 +1,8 @@
+<!-- Banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/10%2B%20Anos%20%7C%20Neg%C3%B3cios%20%26%20Tecnologia%20%7C%20Agentes%20de%20IA-1E1E2E?style=for-the-badge&logo=rocket&logoColor=white" alt="Banner">
+</p>
+
 # 👋 Olá, eu sou Rafael Sampaio Oliveira
 
 > 💡 *"Unindo tecnologia, inteligência e estratégia para criar soluções que transformam realidades"*  
@@ -18,12 +23,25 @@ Atualmente, sou **Diretor de Tecnologia da JUCEPI**, conduzindo iniciativas de *
 
 ## 🛠️ Habilidades & Ferramentas
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" />
+  <!-- Ferramentas e linguagens -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" />
+  
+  <!-- IA e Ferramentas de Produtividade -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40" alt="ChatGPT"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Google_Gemini_logo.svg" width="40" alt="Gemini"/>
+  <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="40" alt="GitHub Copilot"/>
+  <img src="https://manus.ai/favicon.ico" width="40" alt="Manus"/>
+  <img src="https://www.gstatic.com/lamda/images/favicon_v2_192.png" width="40" alt="NotebookLM"/>
+  <img src="https://www.gstatic.com/aihub/images/favicon_48dp.png" width="40" alt="Google AI Studio"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Claude_logo.svg" width="40" alt="Claude"/>
+  <img src="https://seeklogo.com/images/D/deepseek-logo-D258404452-seeklogo.com.png" width="40" alt="DeepSeek"/>
+  <img src="https://storage.googleapis.com/meetgeek-site-assets/favicon-32x32.png" width="40" alt="MeetGeek"/>
+  <img src="https://gammalab.io/favicon-32x32.png" width="40" alt="Gamma"/>
 </p>
 
 ---
