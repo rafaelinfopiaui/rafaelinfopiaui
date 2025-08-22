@@ -2,16 +2,19 @@
 
 > 💡 *"Unindo tecnologia, inteligência e estratégia para criar soluções que transformam realidades"*  
 
-Sou um **especialista em Tecnologia da Informação e Inteligência Artificial**, com experiência em liderar projetos inovadores que unem **automação, dados e eficiência operacional**.  
-Atualmente, atuo como **Diretor de Tecnologia da JUCEPI**, conduzindo iniciativas de transformação digital que impactam diretamente a produtividade e a modernização de processos públicos.  
+Sou um **especialista em Tecnologia da Informação e Inteligência Artificial**, com **mais de 10 anos de experiência em TI**, atuando principalmente como **Analista de Sistemas** no desenvolvimento, integração e manutenção de soluções corporativas.  
+Ao longo da minha trajetória, liderei projetos inovadores que unem **automação, análise de dados e eficiência operacional**, sempre com foco em gerar resultados concretos para empresas e órgãos públicos.  
 
-🚀 Minha missão é **traduzir inovação em resultados concretos**, aplicando IA e automação para **simplificar operações, potencializar negócios e abrir novos caminhos para organizações públicas e privadas**.
+Atualmente, atuo como **Diretor de Tecnologia da JUCEPI**, conduzindo iniciativas de **transformação digital** que modernizam processos, aumentam a produtividade e melhoram a experiência do usuário no setor público.  
+
+🚀 Minha missão é **traduzir inovação em resultados práticos**, aplicando IA e automação para **simplificar operações, potencializar negócios e criar novos caminhos para organizações públicas e privadas**.
 
 ---
 
 ## 🚀 Sobre mim
 - 🎓 Estudando **Engenharia de Computação com Inteligência Artificial**
 - 💼 Fundador da **INOVA AI Consultoria e Tecnologia**
+- 💻 Mais de **10 anos de experiência** em TI como Analista de Sistemas
 - 📚 Interesse em **Python, LaTeX, Kubernetes, Machine Learning**
 - ✨ Curiosidade infinita por inovação e tecnologia
 
