@@ -49,10 +49,9 @@ Atualmente, sou **Diretor de Tecnologia da JUCEPI**, conduzindo iniciativas de *
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-oliveira-piaui/)
 [![Portfólio](https://img.shields.io/badge/inovaai.tech-111?style=for-the-badge&logo=vercel&logoColor=white)](https://inovaai.tech/)
+[![Instagram](https://img.shields.io/badge/@rafael_piaui-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_piaui)
 
 [![Email Profissional](https://img.shields.io/badge/rafael@inovaai.tech-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael@inovaai.tech)
 [![Email Pessoal](https://img.shields.io/badge/rafael.infopiaui@gmail.com-CA3E27?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.infopiaui@gmail.com)
-
-[![Instagram](https://img.shields.io/badge/@rafael_piaui-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_piaui)
 
 ---
