@@ -1,7 +1,11 @@
 # 👋 Olá, eu sou Rafael Sampaio Oliveira
 
-Sou profissional de **Tecnologia da Informação** e **Inteligência Artificial**, apaixonado por transformar ideias em soluções inteligentes.  
-Atualmente, sou Diretor de TI na JUCEPI e desenvolvo projetos de IA aplicados a negócios, automação e eficiência organizacional.
+> 💡 *"Unindo tecnologia, inteligência e estratégia para criar soluções que transformam realidades"*  
+
+Sou um **especialista em Tecnologia da Informação e Inteligência Artificial**, com experiência em liderar projetos inovadores que unem **automação, dados e eficiência operacional**.  
+Atualmente, atuo como **Diretor de Tecnologia da JUCEPI**, conduzindo iniciativas de transformação digital que impactam diretamente a produtividade e a modernização de processos públicos.  
+
+🚀 Minha missão é **traduzir inovação em resultados concretos**, aplicando IA e automação para **simplificar operações, potencializar negócios e abrir novos caminhos para organizações públicas e privadas**.
 
 ---
 
@@ -14,11 +18,13 @@ Atualmente, sou Diretor de TI na JUCEPI e desenvolvo projetos de IA aplicados a 
 ---
 
 ## 🛠️ Habilidades & Ferramentas
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
 ---
 
@@ -29,9 +35,11 @@ Atualmente, sou Diretor de TI na JUCEPI e desenvolvo projetos de IA aplicados a 
 ---
 
 ## 📫 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://SEU-SITE.com)
-[![E-mail](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@EXEMPLO.COM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-oliveira-piaui/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://inovaai.tech/)
+[![E-mail 1](https://img.shields.io/badge/Email%20Profissional-333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael@inovaai.tech)
+[![E-mail 2](https://img.shields.io/badge/Email%20Pessoal-555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafael.infopiaui@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rafael_piaui)
 
 ---
 
