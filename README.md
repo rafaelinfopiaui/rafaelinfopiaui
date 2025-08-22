@@ -7,9 +7,10 @@
 
 > 💡 *"Unindo tecnologia, inteligência e estratégia para criar soluções que transformam realidades"*  
 
-Sou um **especialista em Tecnologia da Informação e Inteligência Artificial**, com **mais de 10 anos de experiência** atuando na interseção entre **TI e negócios**. Minha trajetória como **Analista de Sistemas** e gestor de tecnologia me proporcionou uma visão ampla para alinhar soluções tecnológicas às estratégias organizacionais, gerando resultados concretos e sustentáveis.  
+Sou um **especialista em Tecnologia da Informação e Inteligência Artificial**, com **mais de 10 anos de experiência** atuando na interseção entre **TI e negócios**. Minha trajetória como **Analista de Sistemas** e **Gestor de TI** me proporcionou uma visão ampla para alinhar soluções tecnológicas às estratégias organizacionais, gerando resultados concretos e sustentáveis.  
 
-Atualmente, sou **Diretor de Tecnologia da JUCEPI**, conduzindo iniciativas de **transformação digital** e automação que modernizam processos e aumentam a eficiência no setor público. Paralelamente, estou me **especializando em Agentes de IA**, explorando o potencial dessas tecnologias para criar soluções **inovadoras e disruptivas**.  
+Atualmente, sou **Diretor de Tecnologia da JUCEPI**, conduzindo iniciativas de **transformação digital** e automação que modernizam processos e aumentam a eficiência no setor público.
+Paralelamente, estou me **especializando em Agentes de IA**, explorando o potencial dessas tecnologias para criar soluções **inovadoras e disruptivas**.  
 
 🚀 Minha missão é **traduzir inovação em resultados práticos**, conectando tecnologia, inteligência de negócios e automação para **simplificar operações e potencializar resultados** em organizações públicas e privadas.
 
