@@ -29,9 +29,12 @@ Além disso, participo de **diversos cursos e formações** voltados à IA, **Ma
 
 ---
 
-## 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelinfopiaui&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelinfopiaui&layout=compact&theme=tokyonight)
+## 📊 Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelinfopiaui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelinfopiaui&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
