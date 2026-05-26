@@ -115,8 +115,7 @@ Também sou fundador da **INOVA AI TECH**, empresa especializada em soluções d
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
+  <img src="https://github.com/user-attachments/assets/853c0fb4-34f8-4efb-9d6f-a1e179d83ada" width="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" alt="LaTeX"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
@@ -127,14 +126,18 @@ Também sou fundador da **INOVA AI TECH**, empresa especializada em soluções d
 ## 🤖 Ferramentas de IA
 
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai/white" width="40" alt="OpenAI"/>
-  <img src="https://cdn.simpleicons.org/googlebard" width="40" alt="Gemini"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot/white" width="40" alt="GitHub Copilot"/>
-  <img src="https://cdn.simpleicons.org/claude" width="40" alt="Claude"/>
-  <img src="https://cdn.simpleicons.org/docker" width="40" alt="Docker AI"/>
-  <img src="https://cdn.simpleicons.org/googlecloud" width="40" alt="Google AI Studio"/>
+  <img src="https://github.com/user-attachments/assets/275e1ebc-5976-4930-b909-6e6f4fdfc69e" width="45" alt="OpenAI"/>
+  
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" alt="Gemini"/>
+  
+  <img src="https://cdn.simpleicons.org/githubcopilot/white" width="45" alt="GitHub Copilot"/>
+  
+  <img src="https://cdn.simpleicons.org/anthropic/white" width="45" alt="Claude"/>
+  
+  <img src="https://cdn.simpleicons.org/docker/2496ED" width="45" alt="Docker"/>
+  
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="45" alt="Google AI Studio"/>
 </p>
-
 ---
 
 # 🏗️ Projetos & Iniciativas
